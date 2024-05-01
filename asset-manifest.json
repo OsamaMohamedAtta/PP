@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d73ef947.css",
+    "main.css": "/static/css/main.388031d3.css",
     "main.js": "/static/js/main.e5d1f899.js",
     "static/js/27.364c1694.chunk.js": "/static/js/27.364c1694.chunk.js",
     "static/media/mobile-bannar.png": "/static/media/mobile-bannar.054200c314800182a594.png",
@@ -24,7 +24,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.d73ef947.css",
+    "static/css/main.388031d3.css",
     "static/js/main.e5d1f899.js"
   ]
 }
