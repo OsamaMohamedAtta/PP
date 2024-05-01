@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/PP/static/css/main.f4fecb83.css",
+    "main.js": "/PP/static/js/main.6e26e135.js",
+    "static/js/27.364c1694.chunk.js": "/PP/static/js/27.364c1694.chunk.js",
+    "static/media/mobile-bannar.png": "/PP/static/media/mobile-bannar.054200c314800182a594.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/PP/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/home-bannar.jpg": "/PP/static/media/home-bannar.abdfdefba4b1b4fafeab.jpg",
+    "static/media/avatar-exam.png": "/PP/static/media/avatar-exam.3952c8d2f66830f46bbc.png",
+    "static/media/footer-mobile.png": "/PP/static/media/footer-mobile.b1a0797b725c10f234f0.png",
+    "static/media/fontawesome-webfont.eot": "/PP/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/PP/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/topic-question.gif": "/PP/static/media/topic-question.48bdae45a58251cd0421.gif",
+    "static/media/logo-login.png": "/PP/static/media/logo-login.220b607545800f31070f.png",
+    "static/media/avatar-profile.png": "/PP/static/media/avatar-profile.0d1a404a328cb76bf98f.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/PP/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/PP/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/past-paper.gif": "/PP/static/media/past-paper.49cee58be3320ae94bff.gif",
+    "static/media/logo.png": "/PP/static/media/logo.abdd59c0966be65eb426.png",
+    "static/media/google-play.png": "/PP/static/media/google-play.e9249c768d12fe39d297.png",
+    "static/media/avatar.png": "/PP/static/media/avatar.5653ff3e2bd6d59ab6eb.png",
+    "static/media/app-store.png": "/PP/static/media/app-store.4c200db86c7fa898ebb3.png",
+    "static/media/hand.png": "/PP/static/media/hand.7e5409ccd6122964dd5e.png",
+    "index.html": "/PP/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f4fecb83.css",
+    "static/js/main.6e26e135.js"
+  ]
+}
