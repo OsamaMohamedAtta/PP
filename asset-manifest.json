@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PP/static/css/main.bc16aef1.css",
+    "main.css": "/PP/static/css/main.fcddca43.css",
     "main.js": "/PP/static/js/main.6e26e135.js",
     "static/js/27.364c1694.chunk.js": "/PP/static/js/27.364c1694.chunk.js",
     "static/media/mobile-bannar.png": "/PP/static/media/mobile-bannar.054200c314800182a594.png",
@@ -24,7 +24,7 @@
     "index.html": "/PP/index.html"
   },
   "entrypoints": [
-    "static/css/main.bc16aef1.css",
+    "static/css/main.fcddca43.css",
     "static/js/main.6e26e135.js"
   ]
 }
