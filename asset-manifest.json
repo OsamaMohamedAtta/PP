@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b7f4d51a.css",
-    "main.js": "/static/js/main.e9d3d39c.js",
+    "main.js": "/static/js/main.4c13fae3.js",
     "static/js/27.364c1694.chunk.js": "/static/js/27.364c1694.chunk.js",
-    "static/media/app.apk": "/static/media/app.a2615f626b3510b6b7b5.apk",
     "static/media/mobile-bannar.png": "/static/media/mobile-bannar.054200c314800182a594.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/home-bannar.jpg": "/static/media/home-bannar.abdfdefba4b1b4fafeab.jpg",
@@ -26,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.b7f4d51a.css",
-    "static/js/main.e9d3d39c.js"
+    "static/js/main.4c13fae3.js"
   ]
 }
