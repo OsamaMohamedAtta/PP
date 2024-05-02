@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5d70dfc.css",
-    "main.js": "/static/js/main.e9f9d68a.js",
-    "static/js/27.364c1694.chunk.js": "/static/js/27.364c1694.chunk.js",
+    "main.css": "/static/css/main.ff75baed.css",
+    "main.js": "/static/js/main.b2e40a2f.js",
+    "static/js/27.a24595b3.chunk.js": "/static/js/27.a24595b3.chunk.js",
     "static/media/mobile-bannar.png": "/static/media/mobile-bannar.054200c314800182a594.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/home-bannar.jpg": "/static/media/home-bannar.abdfdefba4b1b4fafeab.jpg",
@@ -24,7 +24,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.a5d70dfc.css",
-    "static/js/main.e9f9d68a.js"
+    "static/css/main.ff75baed.css",
+    "static/js/main.b2e40a2f.js"
   ]
 }
