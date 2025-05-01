@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc993bc1.css",
-    "main.js": "/static/js/main.bd75ce0e.js",
+    "main.css": "/static/css/main.293092e0.css",
+    "main.js": "/static/js/main.e7a1e315.js",
     "static/js/27.a24595b3.chunk.js": "/static/js/27.a24595b3.chunk.js",
     "static/media/mobile-bannar.png": "/static/media/mobile-bannar.054200c314800182a594.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -34,7 +34,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.cc993bc1.css",
-    "static/js/main.bd75ce0e.js"
+    "static/css/main.293092e0.css",
+    "static/js/main.e7a1e315.js"
   ]
 }
